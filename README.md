@@ -1,17 +1,30 @@
-### Hi there 👋       
-![d598fc1b79ef7512bb8fd7634721f170](https://user-images.githubusercontent.com/119147958/221372341-b6d95229-94a2-4f88-99b8-d6f33fcede52.jpg)
+### Hi there 👋    I'm Artem...
 
-<div id="header" align="right">
-  <img src="<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-</div>" 
+<div id="header" align="left">
+  <img src="https://media.tenor.com/u4Pg5kqdaIAAAAAC/welcome.gif" width="500"/>
 </div>
+
+
+ 
+
+
+  ### **I'm glad to see your here...**
 <div id="badges">
   <a href="https://www.facebook.com/zagrebelny.artem">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=yFacebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://twitter.com/zagrebelny_art">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://ok.ru/">
+    <img src="https://img.shields.io/badge/Одноклассники-orange?style=for-the-badge&logo=OK&logoColor=white" alt="OK Badge"/>
+  </a>
+   <a href="https://vk.com/artemzagrebelny">
+    <img src="https://img.shields.io/badge/ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  </a>
+    </a>
+   <a href="https://t.me/+XYn9plCaDZQxYzgy">
+    <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
